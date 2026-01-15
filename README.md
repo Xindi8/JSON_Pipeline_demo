@@ -2,7 +2,7 @@
 
 Author: Xindi Li
 
-The following demo program demonstrates the process to import json file in MongodB
+The following demo program demonstrates the process to import json file in MongoDB
 
 # Running instruction
 
